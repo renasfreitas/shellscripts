@@ -1,2 +1,2 @@
 # shellscripts
-Repositório com scripts da aula de "gerencia de redes"
+Repositório com todos scripts desenvolvidos da aula de "gerencia de redes"
