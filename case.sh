@@ -1,4 +1,7 @@
 #!/bin/bash
+# Criado por Renã Freitas da Cruz
+# data: 06/05/2019
+# Criar um menu com algumas opcoes usando o "if".
 echo "Escolha o que deseja fazer:"
 echo "##########################"
 echo "1- Numero de usuarios:"
