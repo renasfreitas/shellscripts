@@ -1,4 +1,8 @@
 #!/bin/bash
+# Criado por Renã Freitas da Cruz
+# data: 06/05/2019
+# Utilizando o "for" criar uma sequencia de teste para disponibilidade de IPs
+
 echo "Digite um IP para testar:"
 read ip
 echo "Digite quantas vezes serah testado:"
@@ -14,7 +18,4 @@ then
 else
 	echo "conexao com problema"
 fi
-
 done
-
-
